@@ -1,6 +1,9 @@
 streamlit
 torch
 openai-whisper
+numpy
 TTS
 soundfile
-numpy
+nest_asyncio
+gtts
+audiorecorder
